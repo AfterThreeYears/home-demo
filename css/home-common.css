@@ -1,0 +1,41 @@
+.activityHome-title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  color: #311a71;
+  margin-bottom: 20px;
+}
+
+.activityHome-drop {
+  background-size: contain;
+  height: 39px;
+  width: 11px;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.activityHome-drop-blue {
+  background: url('../resources/images/jian1.png') no-repeat;
+}
+
+.activityHome-drop-yellow {
+  background: url('../resources/images/jian2.png') no-repeat;
+}
+
+.activityHome-detail-btn {
+  display: block;
+  background: red;
+  border-radius: 30px;
+  margin: 0 auto;
+  width: 140px;
+  text-align: center;
+  color: #fff;
+  height: 40px;
+  line-height: 40px;
+  cursor: pointer;
+}
+
+.activityHome-content-common {
+  margin: 0 auto;
+  width: 65%;
+}
